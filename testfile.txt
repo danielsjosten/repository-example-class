@@ -3,3 +3,5 @@ line 3
 line 4 - I added it from the feature branch
 line 5 - I added from master
 line 6 - I added this new line from feature branch
+line 7 - Adding line in feature branch
+line 8 - And also this line
